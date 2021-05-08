@@ -1,0 +1,27 @@
+.mainbox {
+width: 1200px;
+}
+.box {
+border: 3px solid black;
+margin: 100px;
+padding: 50px;
+height: auto;
+overflow: hidden;
+
+}
+.box-img {
+width: 600px;
+height: 300px;
+float: left;
+margin-right: 50px;
+
+}
+.box2 {
+border: 3px solid black;
+border-radius: 20px 20px 0 0 ;
+
+}
+.box-title {
+/* margin-left: 50px;
+display: inline */
+}
